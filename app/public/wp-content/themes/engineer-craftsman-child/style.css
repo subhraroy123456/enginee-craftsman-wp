@@ -228,10 +228,10 @@ header nav .menu-right a.btnn:hover {
 
 /* HERO */
 .swiper-slide-content {
-  background: url(images/banner.png) no-repeat;
-  background-size: cover;
-  background-position: center;
-  padding: 220px 0 200px;
+  /* background: url(images/banner.png) no-repeat; */
+  background-size: cover !important;
+  background-position: center !important;
+  padding: 220px 0 200px !important;
   position: relative;
 }
 .hero-social {
