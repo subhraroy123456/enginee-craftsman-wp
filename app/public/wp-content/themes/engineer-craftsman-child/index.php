@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Engineer Craftsman</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="glightbox/glightbox.min.css">
+    <!-- <link rel="stylesheet" href="glightbox/glightbox.min.css"> -->
     <!-- <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="responsive.css"> -->
     <?php wp_head(); ?>
